@@ -2,3 +2,4 @@
 
 "komentar 3"
 >>>>>>> UpdateText
+dodan je novi komentar 
