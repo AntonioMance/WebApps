@@ -1,3 +1,4 @@
 "komentar 1"
 
-"komentar 4"
+"komentar 3"
+>>>>>>> UpdateText
