@@ -1,4 +1,4 @@
-function Converter(X) {
+function Convert(X) {
     var broj = X;
     var sati = (broj / 60);
     var rsati = Math.floor(sati);
@@ -7,4 +7,4 @@ function Converter(X) {
     return broj + " minuta = " + rsati + " sata i " + rminute + " minuta.";
     }
     
-    console.log(Converter(200));
+    console.log(Convert(200));
